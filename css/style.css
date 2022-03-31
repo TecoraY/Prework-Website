@@ -1,0 +1,41 @@
+<style type="text/css">
+    body{
+    color: #ff3333;
+    background-color: #ffff33;
+    font-family:monospace;
+    }
+    P{
+      font-size: 14pt;
+    }
+    h1{
+      font-size: 18pt;
+      text-align: center;
+    }
+    img{
+      height: 300px;
+      width: 175px;
+    }
+    h3{
+      font-size: 18pt;
+      text-align:center;
+    }
+    form{
+      padding: 20px;
+      background-color:#ff3333;
+      color: black;
+      font-style:italic;
+      border-style:dotted;
+    }
+    input[type=button] {
+      color:black
+      padding: 5px;
+    }
+    #menu{
+      font-style: bold;
+    }
+    div{
+      background-color: #ff6666;
+      width:auto;height:auto;
+    }
+
+</style>
